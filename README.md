@@ -1,2 +1,3 @@
 # nextjs-dashboard
-Dashboard develeped with NextJs framework
+
+Dashboard develeped with NextJs framework (test)
